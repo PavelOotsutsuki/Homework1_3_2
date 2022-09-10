@@ -73,7 +73,6 @@ namespace Homework1_3_2
 
                 Console.WriteLine();
             }
-
         }
     }
 }
